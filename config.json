@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdarse",
+        "uuid": 5688118,
+        "checksum": "7y1pom"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
